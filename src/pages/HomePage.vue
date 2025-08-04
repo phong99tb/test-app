@@ -204,7 +204,7 @@ const newsList = [
     border-radius: 10px;
     padding: 20px;
     background-color: #FFFFFF;
-    min-width: 470px;
+    min-width: 430px;
     align-items: center;
     text-align: center;
     box-shadow: 0px 2px 10px 0px #00000040;
